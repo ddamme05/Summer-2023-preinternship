@@ -29,4 +29,5 @@ function JobCard({job}) {
   );
 }
 
+
 export default JobCard;
